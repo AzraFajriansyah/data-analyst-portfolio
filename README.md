@@ -21,8 +21,6 @@ This project explores how product availability varies across brands in the ASOS 
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
-[View Project](./asos-product-availability-analysis/)
-
 ### 2. Cafe Sales Performance Dashboard
 
 **Focus:** Sales performance, product analysis, and branch-level comparisons.
@@ -39,8 +37,6 @@ This project transforms transaction data from six cafe branches across Indonesia
 
 **Tools:** Microsoft Excel, PivotTables, Charts, Data Cleaning, Dashboard Design
 
-[View Project](./cafe-sales-performance-dashboard/)
-
 ### 3. US Flight Delay Analysis & Interactive Dashboard
 
 **Focus:** Flight delay trends, airline and airport comparisons, and reported delay causes.
@@ -56,8 +52,6 @@ This project examines historical flight-delay data across the United States to i
 - Developed an interactive Tableau dashboard to communicate the findings.
 
 **Tools:** Microsoft Excel, Tableau, Data Cleaning, Data Visualization
-
-[View Project](./us-flight-delay-analysis/)
 
 ## Skills Demonstrated
 
